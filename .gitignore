@@ -6,3 +6,6 @@
 
 # Environment
 .env
+
+#Tailwind output file
+/src/assets/styles/output.css
