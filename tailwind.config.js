@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       fontFamily: {
         'uber': ["Uber Move", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"],
+      },
+      spacing: {
+        '192': '48rem'
       }
     },
   },
