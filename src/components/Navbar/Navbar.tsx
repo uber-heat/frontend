@@ -1,7 +1,7 @@
 import React from 'react'
 import Logo from '../../assets/img/logo-transparent-long.png'
 
-const Navbar = () => {
+const Navbar: React.FC = () => {
   return (
     <div className="bg-white w-full">
       <div className="mx-auto px-2 sm:px-6 lg:px-8 shadow-md">
