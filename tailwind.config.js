@@ -7,7 +7,8 @@ module.exports = {
         'uber': ["Uber Move", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"],
       },
       spacing: {
-        '192': '48rem'
+        '192': '48rem',
+        '135': '30rem'
       }
     },
   },
